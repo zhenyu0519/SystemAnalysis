@@ -18,4 +18,4 @@ The methods and methodologies used in analyzing and designing various types of s
 ## Specification
 The project was done by our team when I took the system analysis course at University of Victoria. Special thanks to our instructor, teaching asssistant and my team members. In this team, everyone had a clear division of the job. I did my job as system analyst but I also took a part in gathering data, creating requirement, creating ER-diagram and DF-diagram, testing system and impoving system. I learned a lot about the requirement and anlysis skills from it. Although this project was not perfect because we were not experienced analysts at that time, the document we create is still a good template for future use. 
 ## Reference
-You will see if the document.
+You will see all reference in the document.
